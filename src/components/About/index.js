@@ -35,11 +35,16 @@ const About = () => {
             />
           </h1>
           <p>
-            Hi, I’m a passionate Blockchain Developer with a strong background in building decentralized applications (dApps), smart contracts, and web3 integrations. I specialize in Solidity, Ethereum, and smart contract development, and I enjoy solving complex problems using the power of decentralized technology.
+            Hi, I’m a passionate Blockchain Developer with a strong background in building decentralized applications (dApps), smart contracts, and web3 integrations. 
+                
+            <p> I specialize in Solidity, Ethereum, and smart contract development, and I enjoy solving complex problems using the power of decentralized technology.</p>
             
-            From writing secure and efficient smart contracts to integrating Chainlink oracles and deploying full-stack dApps using tools like Hardhat, Ethers.js, and React, I focus on creating scalable, transparent, and user-friendly blockchain solutions. I’ve worked with both test networks and local environment development chains , I understand the importance of gas optimization, security audits, and real-world usability.
+           <p> From writing secure and efficient smart contracts to integrating Chainlink oracles and deploying full-stack dApps using tools like Hardhat, Ethers.js, and React, I focus on creating scalable, transparent, and user-friendly blockchain solutions.</p>
+              
+            <p> I’ve worked with both test networks and local environment development chains , I understand the importance of gas optimization, security audits, and real-world usability.
             
-            My goal is to contribute to the future of Web3 by building meaningful products that empower users through decentralization, transparency, and trust.
+            My goal is to contribute to the future of Web3 by building meaningful products that empower users through decentralization, transparency, and trust.</p>
+                
           </p>
           <p>
             I'm confident, naturally curious, and always working on improving my
