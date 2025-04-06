@@ -35,9 +35,11 @@ const About = () => {
             />
           </h1>
           <p>
-            I'm a very ambitious front-end developer looking for a role in an
-            established IT company with the opportunity to work with the latest
-            technologies on challenging and diverse projects.
+            Hi, I’m a passionate Blockchain Developer with a strong background in building decentralized applications (dApps), smart contracts, and web3 integrations. I specialize in Solidity, Ethereum, and smart contract development, and I enjoy solving complex problems using the power of decentralized technology.
+            
+            From writing secure and efficient smart contracts to integrating Chainlink oracles and deploying full-stack dApps using tools like Hardhat, Ethers.js, and React, I focus on creating scalable, transparent, and user-friendly blockchain solutions. I’ve worked with both test networks and production environments, and I understand the importance of gas optimization, security audits, and real-world usability.
+            
+            My goal is to contribute to the future of Web3 by building meaningful products that empower users through decentralization, transparency, and trust.
           </p>
           <p>
             I'm confident, naturally curious, and always working on improving my
