@@ -1,0 +1,150 @@
+.contact-form {
+  width: 100%;
+  margin-top: 20px;
+
+  ul {
+    padding: 0;
+    margin: 0;
+
+    li {
+      padding: 0;
+      margin: 0;
+      list-style: none;
+      margin-bottom: 10px;
+      overflow: hidden;
+      display: block;
+      position: relative;
+      opacity: 0;
+      animation: fadeInUp 2s 2s;
+      animation-fill-mode: forwards;
+      clear: both;
+    }
+
+    li.half {
+      width: 49%;
+      margin-left: 2%;
+      float: left;
+      clear: none;
+
+      &:first-child {
+        margin-left: 0;
+      }
+    }
+  }
+
+  input[type="text"],
+  input[type="email"] {
+    width: 100%;
+    border: 0;
+    background: #082230;
+    height: 50px;
+    font-size: 16px;
+    color: #fff;
+    padding: 0 20px;
+    box-sizing: border-box;
+  }
+
+  textarea {
+    width: 100%;
+    border: 0;
+    background: #082230;
+    height: 200px;
+    font-size: 16px;
+    color: #fff;
+    padding: 20px;
+    min-height: 150px;
+    box-sizing: border-box;
+  }
+
+  .edge {
+    position: relative;
+    width: 150px;
+    height: 50px;
+    transition: 4s;
+    transform-style: preserve-3d;
+    transform: perspective(1000px) rotateX(0deg);
+    margin-top: 50px;
+  }
+  .edge:hover {
+    transform: perspective(1000px) rotateX(360deg);
+  }
+  .edge span {
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    color: #000;
+    background: rgba(255, 255, 255, 0.9);
+    font-family: sans-serif;
+    text-transform: uppercase;
+    font-size: 22px;
+    // letter-spacing: 2px;
+    transition: 0.5s;
+    border: 2px solid #000;
+    box-sizing: border-box;
+    box-shadow: insert 0 20px 50px rgba(0, 0, 0, 0.2);
+  }
+  .edge:hover span {
+    color: black;
+    background: yellow;
+  }
+  .edge span:nth-child(1) {
+    transform: rotateX(360deg) translateZ(25px);
+  }
+  .edge span:nth-child(2) {
+    transform: rotateX(270deg) translateZ(25px);
+  }
+  .edge span:nth-child(3) {
+    transform: rotateX(180deg) translateZ(25px);
+  }
+  .edge span:nth-child(4) {
+    transform: rotateX(90deg) translateZ(25px);
+  }
+}
+
+.icon {
+  width: 100px;
+  margin: 50px;
+  opacity: 0.8;
+  color: #ffd700;
+
+  &:hover {
+    opacity: 1;
+  }
+}
+.right-side {
+  padding-left: 500px;
+}
+.left-side {
+  position: absolute;
+  width: 450px;
+  margin-top: -100px;
+}
+
+@media screen and (max-width: 1000px) {
+  .left-side {
+    margin-top: -10px;
+  }
+}
+@media screen and (max-width: 700px) {
+  .map-wrap {
+    float: none;
+    width: 100%;
+    height: 400px;
+    margin: 0;
+  }
+  .info-map {
+    display: none;
+  }
+  .left-side {
+    width: 74%;
+    margin-top: -15px;
+  }
+  .icon {
+    margin: 10px;
+  }
+}

@@ -1,0 +1,30 @@
+{
+  "portfolio": [
+    {
+      "cover": "/portfolio/PLPredictor.png",
+      "title": "PL Match Predictor",
+      "description": "Built with Python, Sci-kit Learn, Pandas",
+      "url": "https://github.com/Wekhe/Premier_league_match_predictor"
+    },
+
+    {
+      "cover": "/portfolio/preview.jpg",
+      "title": "a crowdfunding app built on ethereum blockchain",
+      "description": "Built with Solidity,Hardhat and Ethersjs",
+      "url": "https://github.com/Wekhe/crowd-funding"
+    },
+
+    {
+      "cover": "/portfolio/9174351.jpg",
+      "title": "a snake game app built with python turtle graphics",
+      "description": "Built with Turtle graohics and python",
+      "url": "https://github.com/Wekhe/python-snake-game"
+    },
+    {
+      "cover": "/portfolio/8057541.jpg",
+      "title": "A qrcode generator for generating qr-codes for users",
+      "description": "Built with Javascript",
+      "url": "https://github.com/Wekhe/qr-code-generator"
+    }
+  ]
+}
