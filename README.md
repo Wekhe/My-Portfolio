@@ -1,6 +1,7 @@
 # Wekhe Ikem's Coding Portfolio
 
-Welcome to my coding portfolio! This web application is built using ReactJs with Sass styling, showcasing my skills, projects, and achievements in the field of web development. You can check it out [here!](https://erikc-portfolio.vercel.app/)
+Welcome to my coding portfolio! This web application is built using ReactJs with Sass styling, showcasing my skills, projects, and achievements in the field of web development. You can check it out [here!](ikemsportfolio-iiu19njf9-ikembuchim-wekhes-projects.vercel.app
+)
 
 <!-- <img width="1160" alt="Screenshot 2024-06-15 at 1 20 54 AM" src="https://github.com/Erik-Cupsa/PortfolioWebsite/assets/86483911/3158d670-8cea-428a-8308-32c6b50f4de0"> -->
 
