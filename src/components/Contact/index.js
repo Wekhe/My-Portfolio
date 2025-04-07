@@ -142,7 +142,7 @@ const Contact = () => {
           </table>
         </div>
       </div>
-      <Loader type="pacman" />
+      <Loader type="semi-circle-spin" />
     </>
   );
 };
