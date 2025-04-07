@@ -46,7 +46,7 @@ const Portfolio = () => {
                 </h1>
                 <div>{renderPortfolio(portfolioData.portfolio)}</div>
             </div>
-            <Loader type="pacman"/>
+      <Loader type="semi-circle-spin" />
         </>
     );
 }
