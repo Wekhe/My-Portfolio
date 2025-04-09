@@ -92,7 +92,7 @@ const Sidebar = () => {
         </li>
         <li>
           <a
-            href="https://www.youtube.com/channel/UCBu5ulO4d-d47lAVybpRTkw"
+            href="www.youtube.com/@goofyikem9722"
             rel="noreferrer"
             target="_blank"
           >
@@ -125,3 +125,7 @@ const Sidebar = () => {
 };
 
 export default Sidebar;
+
+
+
+
