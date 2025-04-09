@@ -92,7 +92,7 @@ const Sidebar = () => {
         </li>
         <li>
           <a
-            href="www.youtube.com/@goofyikem9722"
+            href="https://www.youtube.com/results?search_query=goofyikem"
             rel="noreferrer"
             target="_blank"
           >
