@@ -43,7 +43,7 @@ const Home = () => {
               idx={15}
             />
           </h1>
-          <h2>Software Engineering & Blockchain, @ Rivers State</h2>
+          <h2>Software Engineering & DevOps, @ Rivers State</h2>
           <Link to="/contact">
             <div className="edge">
               <span>Contact Me</span>
