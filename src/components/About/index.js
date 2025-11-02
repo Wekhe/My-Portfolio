@@ -5,7 +5,7 @@ import {
   faGitAlt,
   faHtml5,
   faJsSquare,
-  // faReact,
+  faReact,
 } from "@fortawesome/free-brands-svg-icons";
 import Loader from "react-loaders";
 import AnimatedLetters from "../AnimatedLetters";
