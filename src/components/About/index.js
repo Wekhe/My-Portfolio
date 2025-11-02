@@ -1,6 +1,6 @@
 import { useEffect, useState } from "react";
 import {
-  faEthereum,
+  faSpringBoot,
   faCss3,
   faGitAlt,
   faHtml5,
