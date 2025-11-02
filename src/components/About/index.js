@@ -55,7 +55,7 @@ const About = () => {
         <div className="stage-cube-cont">
           <div className="cubespinner">
             {[
-              { icon: faEthereum, color: "grey" },
+              { icon: faSpringBoot, color: "grey" },
               { icon: faHtml5, color: "#F06529" },
               { icon: faCss3, color: "#28A4D9" },
               { icon: faReact, color: "#5ED4F4" },
